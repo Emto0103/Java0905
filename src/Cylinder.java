@@ -5,7 +5,6 @@ public class Cylinder {
     double getVoulume(){
         return radius * radius * Math.PI * height;
     }
-
     double getSurfaceArea(){
         double circleArea = Math.PI * radius * radius;
         double rectangleArea = height * 2 * radius * Math.PI;
