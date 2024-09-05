@@ -4,7 +4,7 @@ public class Square {
     // 한변의 길이
     private int length;
 //    private int area;
-//
+
 //    public int getLength() {
 //        return length;
 //    }

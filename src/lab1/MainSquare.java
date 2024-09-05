@@ -3,7 +3,7 @@ package lab1;
 public class MainSquare {
     public static void main(String[] args) {
 //        Square square = new Square();
-//
+
 //        square.setLength(9);
 //        square.setArea();
 //

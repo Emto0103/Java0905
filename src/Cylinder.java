@@ -10,10 +10,10 @@ public class Cylinder {
         double rectangleArea = height * 2 * radius * Math.PI;
         return 2* circleArea + rectangleArea;
     }
-//
+
     public static void main(String[] args) {
         Cylinder c = new Cylinder();
-//
+
         c.radius = 4;
         c.height = 5;
 
