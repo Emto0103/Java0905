@@ -8,7 +8,7 @@ public class MainSquare {
 //        square.setArea();
 //
 //        System.out.printf("square length: %d square area: %d", square.getLength(), square.getArea());
-
+//
         Square s1 = new Square();
         s1.setLength(15);
         int result1 = s1.area();

@@ -6,7 +6,7 @@ public class MainDog {
         d1.setName("레옹");
         d1.setBreeds("말티즈");
         d1.setAge(15);
-
+//
         d2.setName("그레이");
         d2.setBreeds("골든리트리버");
         d2.setAge(7);

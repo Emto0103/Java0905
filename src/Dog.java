@@ -26,7 +26,7 @@ public class Dog {
     public void setAge(int age) {
         this.age = age;
     }
-
+//
     public void wag(){
         System.out.println(name + "가(이) 살랑살랑 꼬리를 친다.");
     }
