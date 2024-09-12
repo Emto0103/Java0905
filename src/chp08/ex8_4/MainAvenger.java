@@ -10,7 +10,7 @@ public class MainAvenger {
         thanos.punch(thor);
     }
 }
-
+//
 class Avenger {
     String name;
     int hp;
