@@ -10,17 +10,3 @@ public class MainAvenger {
         thanos.punch(thor);
     }
 }
-//
-class Avenger {
-    String name;
-    int hp;
-
-    Avenger(int hp, String name) {
-        name = name;
-        hp = hp;
-    }
-
-    void punch(Avenger enemy) {
-        System.out.printf("[%s]의 펀치", name);
-    }
-}
