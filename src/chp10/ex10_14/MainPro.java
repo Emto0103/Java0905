@@ -4,7 +4,7 @@ import chp10.ex10_14.pack2.Weapon;
 
 public class MainPro {
     public static void main(String[] args) {
-        Weapon w = new Weapon("대검", 6000, 50);
+        Weapon w = new Weapon("대검", 6000, 500);
         w.print();
     }
 }
