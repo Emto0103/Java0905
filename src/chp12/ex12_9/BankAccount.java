@@ -13,6 +13,6 @@ public class BankAccount {
 
     @Override
     public String toString() {
-        return super.format("%s / %s / %d",userName, accountNumber, balance);
+        return String.format("%s , %s , %d",userName, accountNumber, balance);
     }
 }
